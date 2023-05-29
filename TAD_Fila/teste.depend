@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1677250574 source:/home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/teste/interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1677249532 source:/home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/teste/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"interface.h"
+
+1677299484 source:/home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/teste/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1677298615 /home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/teste/Fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1677042058 /home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/teste/interface.h
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+

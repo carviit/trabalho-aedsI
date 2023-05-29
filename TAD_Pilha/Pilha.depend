@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1677695425 source:/home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/Pilha/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Interface.h"
+
+1678385585 source:/home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/Pilha/Interface.c
+	<stdio.h>
+	<stdlib.h>
+	"Interface.h"
+
+1677712607 /home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/Pilha/Interface.h
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+	"Fila.h"
+
+1678328863 /home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/Pilha/Pilha.h
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+	"Util.h"
+
+1678385496 source:/home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/Pilha/Pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+	"Fila.h"
+	<math.h>
+	<ctype.h>
+
+1677726559 /home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/Pilha/Fila.h
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+
+1677767635 source:/home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/Pilha/Fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1678328863 /home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/Pilha/Util.h
+	<stdio.h>
+	<stdlib.h>
+
+1677712947 source:/home/carlos/Documentos/UFOP/2_Periodo/2_Periodo_AEDS_I/Pilha/Util.c
+	<stdio.h>
+	<stdlib.h>
+	"Util.h"
+
