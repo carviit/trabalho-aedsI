@@ -397,15 +397,3 @@ void DiferencaDeFilas(TFila *F1, TFila *F2, TFila *FResul){
 
 }
 
-void EnQueue(TFilaPrioridade *Fila, TProduto x){
-
-     // Não consegui fazer.
-
-}
-
-void DeQueue(TFilaPrioridade *fila, TProduto x){
-
-    // Não consegui fazer.
-
-
-}
